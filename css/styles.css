@@ -728,6 +728,7 @@ align-items: baseline;
       color: #FFFFFF;
       display: flex;
       gap: 24px;
+      
     }
     .footer-paragraf {
       margin-bottom: 16px;
@@ -774,6 +775,11 @@ align-items: baseline;
       color: #ffffff;
 
     }
+    .footer-form{
+      padding-right: 200px;
+    }
+      
+    
 
 .paragraf-soc{
   font-weight: 500;
