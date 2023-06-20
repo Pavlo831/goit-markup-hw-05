@@ -727,7 +727,7 @@ align-items: baseline;
       letter-spacing: 0.02em;
       color: #FFFFFF;
       display: flex;
-      gap 24px;
+      gap: 24px;
     }
     .footer-paragraf {
       margin-bottom: 16px;
