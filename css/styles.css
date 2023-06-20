@@ -889,3 +889,19 @@ position: absolute;
  
  }
  
+ .modal-form {
+  margin-bottom: 8px; 
+
+ }
+ .modal-lable {
+   font-size: 12px; 
+    letter-spacing: 0.04em;
+    color: #8e8f99;
+    display: block; 
+    margin-bottom: 4px; 
+
+ }
+ .modal-input {
+   position: relative; 
+   
+ }
