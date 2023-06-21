@@ -985,20 +985,17 @@ input:focus {
 
     }
     
-    .input.modal-person:focus {
-      fill: #4D5AE5;
-    }  
+         .input:focus+.modal-person {
+           fill: #4D5AE5;
+         }
+    
     .modal-link {
       color:#4d5ae5;
     }
     .input-comment {
       margin-bottom: 24px;
     }
-    span:checked {
-      background-color:#404bbf;
-      border: none;
-      fill:#F4F4FD;
-    }
+   
     .modal-input-blok {
       margin-bottom: 8px;
     }
@@ -1008,3 +1005,10 @@ input:focus {
     .modal-checkbox {
       visibility: hidden;
     }
+    
+         .modal-checkbox:checked+.lable-checkbox>.lable-span {
+           background-color: #404bbf;
+           border: none;
+           fill: #F4F4FD;
+         }
+    
