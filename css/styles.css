@@ -916,6 +916,7 @@ font-size: 16px;
  .modal-input {
    
     margin-bottom: 8px;
+    margin-bottom: 16px;
 
  }
  .input {
@@ -990,4 +991,7 @@ input:focus {
     }
     .input:focus {
       fill: #4D5AE5;
+    }
+    .modal-link {
+      color:#4d5ae5;
     }
