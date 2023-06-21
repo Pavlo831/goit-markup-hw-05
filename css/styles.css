@@ -959,9 +959,7 @@ input:focus {
     .modal-textarea:focus {
       border-color: #4D5AE5;
     }
-    .modal-person:focus {
-      fill: #4D5AE5;
-    }
+    
     
     .lable-chek {
       margin-bottom: 24px;
@@ -989,4 +987,7 @@ input:focus {
     }
     .icon-checkbox {
       
+    }
+    .input:focus {
+      fill: #4D5AE5;
     }
