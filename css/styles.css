@@ -954,3 +954,6 @@ input:focus {
     .modal-textarea:focus {
       border-color: #4D5AE5;
     }
+    .modal-person:focus {
+      fill: #4D5AE5;
+    }
