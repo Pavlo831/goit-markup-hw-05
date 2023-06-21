@@ -957,3 +957,16 @@ input:focus {
     .modal-person:focus {
       fill: #4D5AE5;
     }
+    
+    .lable-chek {
+      margin-bottom: 24px;
+
+    
+      
+    }
+    .lable-checkbox {
+      font-size: 12px;
+      line-height: 1.17;
+      letter-spacing: 0.04em;
+      color:#8e8f99;
+    }
