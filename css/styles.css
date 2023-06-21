@@ -995,3 +995,6 @@ input:focus {
     .modal-link {
       color:#4d5ae5;
     }
+    .input-comment {
+      margin-bottom: 24px;
+    }
