@@ -896,7 +896,8 @@ font-size: 16px;
  }
  
  .modal-form {
-  margin-bottom: 8px; 
+  margin-bottom: 50px; 
+  margin-top: 16px;
 
  }
  .modal-lable {
