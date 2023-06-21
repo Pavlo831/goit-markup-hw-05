@@ -985,9 +985,9 @@ input:focus {
 
     }
     
-    .input:focus {
+    .input.modal-person:focus {
       fill: #4D5AE5;
-    }
+    }  
     .modal-link {
       color:#4d5ae5;
     }
